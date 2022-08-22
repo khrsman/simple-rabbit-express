@@ -1,0 +1,16 @@
+{
+  "name": "rabbit-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kaharisman",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.2",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
